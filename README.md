@@ -48,7 +48,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
     <li> <b> Latex-Markdown-Html: </b> <i>App to adjust and convert between markdown, tex and html files</i> </li>
     Only issue is Latex feels really hard to me 😶‍🌫️ 
   </oul>
-</detals>
+</details>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/snh1999) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://nahin.hashnode.dev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sahriarnur//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/shariarnurnahin99/)
 
