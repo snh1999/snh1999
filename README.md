@@ -9,22 +9,46 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <summary><h3>📘 Projects I am currently working on</h3></summary>
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="https://github.com/snh1999/bug2progress">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=bug2progress&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true" alt="bug2progress">
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=bug2progress&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true" alt="bug2progress">
+    <a href="https://github.com/snh1999/VEditLog">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=VEditLog&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true" alt="VEditLog">
     </a>
   </p>
 
-<a href="https://github.com/snh1999?tab=repositories&q=&type=&language=&sort=names">Other Repositories</a>
+<details open> 
+  <summary><h3>Few of My Completed Projects</h3></summary>
+  <p align="left">
+    <a href="https://github.com/snh1999/ReadU">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=ReadU&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true" alt="ReadU">
+    </a>
+    <a href="https://github.com/snh1999/Back2School">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=Back2School&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true" alt="Back2School">
+    </a>
+    <a href="https://github.com/snh1999/JetBrainsAcademy">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=JetBrainsAcademy&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true" alt="Back2School">
+    </a>
+  </p>
+
+<a href="https://github.com/snh1999?tab=repositories&q=&type=&language=&sort=names">All Repositories</a>
 
 </details>
+
+<details close>
+  <summary><h3>Future Project Plans and Progress</h3></summary>
+  <ul> 
+    <li> <b> Manim_Canvas: </b> <i>GUI for Open source Manim </i></li>  
+    This work was under development for some time, It will require some work before it is released
+    <li> <b> Typing Practice: </b> <i> Typing tutor adjusting on current performance analytics</i> </li>
+    Started gathering resources, It might become the next project
+    <li> <b> Search_red: </b> <i>App for finding blood donors available nearby.</i></li>
+    <li> <b> Latex-Markdown-Html: </b> <i>App to adjust and convert between markdown, tex and html files</i> </li>
+    Only issue is Latex feels really hard to me 😶‍🌫️ 
+  </oul>
+</detals>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/snh1999) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://nahin.hashnode.dev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sahriarnur//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/shariarnurnahin99/)
 
