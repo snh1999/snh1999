@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FF00&center=true&width=600&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+I+am+Sahriar+Nur+Nahin;%F0%9F%A7%B0+Currently+working+on+Bug2progress+and+VeditLog;+%F0%9F%8C%B1+Learning+Golang;%F0%9F%91%8D+Interested+in+Open+Source+and+Cryptography;%F0%9F%A7%AD+Hobby+%3A++video+production+and+writing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FF00&center=true&width=600&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+I+am+Sahriar+Nur+Nahin;%F0%9F%A7%B0+Currently+working+on+Bug2progress+and+VeditLog;+%F0%9F%8C%B1+Learning+ReactJS;%F0%9F%91%8D+Interested+in+Open+Source+and+Cryptography;%F0%9F%A7%AD+Hobby+%3A++video+production+and+writing" alt="Typing SVG" /></a>
 </p>
 
 ### Hi there 👋, my name is Nahin
@@ -34,7 +34,7 @@
 </details>
 
 <details close>
-  <summary><h3>Future Project Plans and Progress</h3></summary>
+  <summary><h3>Future Project Plans and Progress</h3>(click to expand)</summary>
   <ul> 
     <li> <b> Manim_Canvas: </b> <i>GUI for Open source Manim </i></li>  
     This work was under development for some time, It will require some work before it is released (code analyzer is taking time)
@@ -50,8 +50,7 @@
   </oul>
 >>>>>>> a55da70da7d9158c62987d0e744fa998dd859e8c
 </details>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/snh1999) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://nahin.hashnode.dev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sahriarnur//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/shariarnurnahin99/)
+<summary><b>Please reload once if the images do not load in first go</b></summary>
 
 <!-- ![Profile views](https://gpvc.arturio.dev/snh1999) -->
 
