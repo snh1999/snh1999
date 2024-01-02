@@ -10,7 +10,13 @@
         />
     </summary>
     <div style="margin-top: 10px">
-        <div style="width: fit-content; display: inline-block">
+        <a href="https://github.com/snh1999/dacomp"> 
+            <img
+                src="./images/dacomp.svg"
+                alt="Javascript Compiler"
+            />
+        </a>
+        <!-- <div style="width: fit-content; display: inline-block">
             <span style="display: flex; margin-bottom: -5px">
                 <img
                     src="https://custom-icon-badges.demolab.com/badge/Compiler-1F222E?style=for-the-badge&logo=command&logoColor=white"
@@ -40,8 +46,14 @@
                     />
                 </a>
             </span>
-        </div>
-        <div style="width: fit-content; display: inline-block">
+        </div> -->
+        <a href="https://github.com/snh1999/bug2progress"> 
+            <img
+                src="./images/bug2progress.svg"
+                alt="Javascript Compiler"
+            />
+        </a>
+        <!-- <div style="width: fit-content; display: inline-block">
             <span style="display: flex; justify-content: space-between; margin-bottom: -5px">
                 <img
                     src="https://custom-icon-badges.demolab.com/badge/Web_Application-1F222E?style=for-the-badge&logo=command&logoColor=white"
@@ -83,7 +95,7 @@
                     />
                 </a>
             </span>
-        </div>
+        </div> -->
     </div>
 </details>
 
@@ -95,7 +107,13 @@
         />
     </summary>
     <div>
-        <div style="width: fit-content; display: inline-block">
+        <a href="https://github.com/snh1999/catest"> 
+            <img
+                src="./images/catest.svg"
+                alt="Javascript Compiler"
+            />
+        </a>
+        <!-- <div style="width: fit-content; display: inline-block">
             <span style="display: flex; margin-bottom: -5px">
                 <img
                     src="https://custom-icon-badges.demolab.com/badge/API_CLIENT-1F222E?style=for-the-badge&logo=check-circle&logoColor=white"
@@ -132,8 +150,14 @@
                     />
                 </a>
             </span>
-        </div>
-        <div style="width: fit-content; display: inline-block">
+        </div> -->
+        <a href="https://github.com/snh1999/cmd_cat"> 
+            <img
+                src="./images/cmd_cat.svg"
+                alt="Javascript Compiler"
+            />
+        </a>
+        <!-- <div style="width: fit-content; display: inline-block">
             <span style="display: flex; margin-bottom: -5px">
                 <img
                     src="https://custom-icon-badges.demolab.com/badge/CLI_Application-1F222E?style=for-the-badge&logo=terminal&logoColor=white"
@@ -163,15 +187,20 @@
                     />
                 </a>
             </span>
-        </div>
-        <div style="width: fit-content; display: inline-block">
+        </div> -->
+        <a href="https://github.com/snh1999/ReadU"> 
+            <img
+                src="./images/readu.svg"
+                alt="Javascript Compiler"
+            />
+        </a>
+        <!-- <div style="width: fit-content; display: inline-block">
             <span style="display: flex; margin-bottom: -5px">
                 <img
                     src="https://custom-icon-badges.demolab.com/badge/REST_API-1F222E?style=for-the-badge&logo=bookmark&logoColor=white"
                     alt="REST API"
                 />
             </span>
-            <!-- https://github.com/snh1999/ReadU-chat -->
             <a href="https://github.com/snh1999/ReadU">
                 <img
                     width="278"
@@ -202,8 +231,14 @@
                     />
                 </a>
             </span>
-        </div>
-        <div style="width: fit-content; display: inline-block">
+        </div> -->
+        <a href="https://github.com/snh1999/jblog"> 
+            <img
+                src="./images/jblog.svg"
+                alt="jblog"
+            />
+        </a>
+        <!-- <div style="width: fit-content; display: inline-block">
             <span style="display: flex; margin-bottom: -5px">
                 <img
                     src="https://custom-icon-badges.demolab.com/badge/Web_Application-1F222E?style=for-the-badge&logo=cloud&logoColor=white"
@@ -240,8 +275,14 @@
                     />
                 </a>
             </span>
-        </div>
-        <div style="width: fit-content; display: inline-block">
+        </div> -->
+        <a href="https://github.com/snh1999/VEditLog"> 
+            <img
+                src="./images/veditlog.svg"
+                alt="Javascript Compiler"
+            />
+        </a>
+        <!-- <div style="width: fit-content; display: inline-block">
             <span style="display: flex; margin-bottom: -5px">
                 <img
                     src="https://custom-icon-badges.demolab.com/badge/Desktop_Application-1F222E?style=for-the-badge&logo=monitor&logoColor=white"
@@ -271,8 +312,14 @@
                     />
                 </a>
             </span>
-        </div>
-        <div style="width: fit-content; display: inline-block">
+        </div> -->
+        <a href="https://github.com/snh1999/Back2School"> 
+            <img
+                src="./images/back2school.svg"
+                alt="back2school"
+            />
+        </a>
+        <!-- <div style="width: fit-content; display: inline-block">
             <span style="display: flex; margin-bottom: -5px">
                 <img
                     src="https://custom-icon-badges.demolab.com/badge/CLI_GAME-1F222E?style=for-the-badge&logo=airplay&logoColor=white"
@@ -294,7 +341,7 @@
                         src="https://custom-icon-badges.demolab.com/badge/graphics.h-black.svg"
                     />
                 </a>
-            </span>
+            </span> -->
         </div>
     </div>
     <a href="https://github.com/snh1999?tab=repositories&q=&type=&language=&sort=names">
