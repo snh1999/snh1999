@@ -336,7 +336,7 @@
         </li>
         Not sure about how this will turn out, brainstrom attempt is pretty much on with this. I just am not comfortable
         seeing my kid cousin enjoying the cringe-fest from short video contents. I just want him to get some good
-        entertainment as we did before all the competiton for attention become a thing
+        entertainment as we did before all the competiton for attention become a thing.
         <li style="margin-top: 10px">
             <img
                 src="https://custom-icon-badges.demolab.com/badge/Search_Red-grey?style=for-the-badge"
