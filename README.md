@@ -279,7 +279,7 @@
                             <img
                                 style="margin-left: 2px; margin-bottom: 5px"
                                 alt="Spring Boot"
-                                src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-47A248?logo=springboot&logoColor=white"
+                                src="https://custom-icon-badges.demolab.com/badge/Boot-47A248?logo=springboot&logoColor=white"
                             />
                         </a>
                         <a href="https://angular.io/">
