@@ -101,132 +101,128 @@
         />
     </summary>
     <div>
-        <a href="https://github.com/snh1999/catest"> 
-            <img
-                src="./images/catest.svg"
-                alt="Javascript Compiler"
-            />
-        </a>
-        <!-- <div style="width: fit-content; display: inline-block">
-            <span style="display: flex; margin-bottom: -5px">
-                <img
-                    src="https://custom-icon-badges.demolab.com/badge/API_CLIENT-1F222E?style=for-the-badge&logo=check-circle&logoColor=white"
-                    alt="API ClIENT"
-                />
-            </span>
-            <a href="https://github.com/snh1999/catest">
-                <img
-                    width="278"
-                    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=catest&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                    alt="ReadU"
-                />
-            </a>
-            <span style="display: flex; justify-content: center">
-                <a href="https://tauri.app/">
+        <table width="1px">
+            <tr>
+                <td>
                     <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="tauri"
-                        src="https://custom-icon-badges.demolab.com/badge/Tauri-blue.svg?logo=tauri&logoColor=yellow"
+                        src="https://custom-icon-badges.demolab.com/badge/API_CLIENT-1F222E?style=for-the-badge&logo=check-circle&logoColor=white"
+                        alt="API ClIENT"
                     />
-                </a>
-                <a href="https://react.dev">
+                </td>
+                <td>
                     <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="react"
-                        src="https://custom-icon-badges.demolab.com/badge/React-grey.svg?logo=react"
+                        src="https://custom-icon-badges.demolab.com/badge/CLI_Application-1F222E?style=for-the-badge&logo=terminal&logoColor=white"
+                        alt="CLI Application"
                     />
-                </a>
-                <a href="https://www.typescriptlang.org/">
+                </td>
+                <td>
                     <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="zustand"
-                        src="https://custom-icon-badges.demolab.com/badge/Zustand-teal.svg"
+                        src="https://custom-icon-badges.demolab.com/badge/REST_API-1F222E?style=for-the-badge&logo=bookmark&logoColor=white"
+                        alt="REST API"
                     />
-                </a>
-            </span>
-        </div> --> 
-        <a href="https://github.com/snh1999/cmd_cat"> 
-            <img
-                src="./images/cmd_cat.svg"
-                alt="Javascript Compiler"
-            />
-        </a>
-        <!-- <div style="width: fit-content; display: inline-block">
-            <span style="display: flex; margin-bottom: -5px">
-                <img
-                    src="https://custom-icon-badges.demolab.com/badge/CLI_Application-1F222E?style=for-the-badge&logo=terminal&logoColor=white"
-                    alt="CLI Application"
-                />
-            </span>
-            <a href="https://github.com/snh1999/cmd_cat">
-                <img
-                    width="278"
-                    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=cmd_cat&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                    alt="ReadU"
-                />
-            </a>
-            <span style="display: flex; justify-content: center">
-                <a href="https://www.rust-lang.org/">
-                    <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="rust"
-                        src="https://custom-icon-badges.demolab.com/badge/Rust-black.svg?logo=rust"
-                    />
-                </a>
-                <a href="https://github.com/rusqlite/rusqlite">
-                    <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="sqlite"
-                        src="https://custom-icon-badges.demolab.com/badge/Rusqlite-aquamarine.svg?logo=sqlite"
-                    />
-                </a>
-            </span>
-        </div> -->
-        <a href="https://github.com/snh1999/ReadU"> 
-            <img
-                src="./images/readu.svg"
-                alt="Javascript Compiler"
-            />
-        </a>
-        <!-- <div style="width: fit-content; display: inline-block">
-            <span style="display: flex; margin-bottom: -5px">
-                <img
-                    src="https://custom-icon-badges.demolab.com/badge/REST_API-1F222E?style=for-the-badge&logo=bookmark&logoColor=white"
-                    alt="REST API"
-                />
-            </span>
-            <a href="https://github.com/snh1999/ReadU">
-                <img
-                    width="278"
-                    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=ReadU&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                    alt="ReadU"
-                />
-            </a>
-            <span style="display: flex; justify-content: center">
-                <a href="https://nodejs.org/">
-                    <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="Node.js"
-                        src="https://custom-icon-badges.demolab.com/badge/-Node.js-339933?logo=node.js&logoColor=white"
-                    />
-                </a>
-                <a href="https://expressjs.com/">
-                    <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="express"
-                        src="https://custom-icon-badges.demolab.com/badge/-Express-000000?logo=express&logoColor=white"
-                    />
-                </a>
-                <a href="https://www.mongodb.com/">
-                    <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="Mongodb"
-                        src="https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"
-                    />
-                </a>
-            </span>
-        </div> -->
-        <a href="https://github.com/snh1999/jblog"> 
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/snh1999/catest">
+                        <img
+                            width="278"
+                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=catest&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
+                            alt="ReadU"
+                        />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://github.com/snh1999/cmd_cat">
+                        <img
+                            width="278"
+                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=cmd_cat&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
+                            alt="ReadU"
+                        />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://github.com/snh1999/ReadU">
+                        <img
+                            width="278"
+                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=ReadU&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
+                            alt="ReadU"
+                        />
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p align="center">
+                        <a href="https://tauri.app/">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="tauri"
+                                src="https://custom-icon-badges.demolab.com/badge/Tauri-blue.svg?logo=tauri&logoColor=yellow"
+                            />
+                        </a>
+                        <a href="https://react.dev">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="react"
+                                src="https://custom-icon-badges.demolab.com/badge/React-grey.svg?logo=react"
+                            />
+                        </a>
+                        <a href="https://www.typescriptlang.org/">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="zustand"
+                                src="https://custom-icon-badges.demolab.com/badge/Zustand-teal.svg"
+                            />
+                        </a>
+                    </p>
+                </td>
+                <td>
+                    <p align="center">
+                        <a href="https://www.rust-lang.org/">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="rust"
+                                src="https://custom-icon-badges.demolab.com/badge/Rust-black.svg?logo=rust"
+                            />
+                        </a>
+                        <a href="https://github.com/rusqlite/rusqlite">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="sqlite"
+                                src="https://custom-icon-badges.demolab.com/badge/Rusqlite-aquamarine.svg?logo=sqlite"
+                            />
+                        </a>
+                    </p>
+                </td>
+                <td>
+                    <p align="center">
+                        <a href="https://nodejs.org/">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="Node.js"
+                                src="https://custom-icon-badges.demolab.com/badge/Node.js-339933?logo=node.js&logoColor=white"
+                            />
+                        </a>
+                        <a href="https://expressjs.com/">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="express"
+                                src="https://custom-icon-badges.demolab.com/badge/Express-000000?logo=express&logoColor=white"
+                            />
+                        </a>
+                        <a href="https://www.mongodb.com/">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="Mongodb"
+                                src="https://custom-icon-badges.demolab.com/badge/MongoDB-47A248?logo=mongodb&logoColor=white"
+                            />
+                        </a>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <a href="https://github.com/snh1999/jblog">
             <img
                 src="./images/jblog.svg"
                 alt="jblog"
@@ -270,7 +266,7 @@
                 </a>
             </span>
         </div> -->
-        <a href="https://github.com/snh1999/VEditLog"> 
+        <a href="https://github.com/snh1999/VEditLog">
             <img
                 src="./images/veditlog.svg"
                 alt="Javascript Compiler"
@@ -307,7 +303,7 @@
                 </a>
             </span>
         </div> -->
-        <a href="https://github.com/snh1999/Back2School"> 
+        <a href="https://github.com/snh1999/Back2School">
             <img
                 src="./images/back2school.svg"
                 alt="back2school"
@@ -346,6 +342,7 @@
             />
         </span>
     </a>
+
 </details>
 
 <details style="margin-top:30px" close>
