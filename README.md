@@ -1,5 +1,5 @@
 <p align="center">
-<a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&duration=1000&pause=800&color=47F718&center=true&vCenter=true&random=false&width=500&lines=%E2%9C%8B+I+am+Sahriar+Nur+Nahin;%F0%9F%8C%B1+Currently+Learning%3A+GoLang;%F0%9F%9B%A0%EF%B8%8F+Working+on%3A+Dacomp(Java);%F0%9F%91%8D+interested+in+Open+Source;...+and+Cryptography;%F0%9F%A7%AD++Hobby%3A+Creative+Coding%2C+Writing;%F0%9F%92%8C+I+love+building+new+things" alt="Typing SVG" /></a>
+    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&duration=1000&pause=800&color=47F718&center=true&vCenter=true&random=false&width=500&lines=%E2%9C%8B+I+am+Sahriar+Nur+Nahin;%F0%9F%8C%B1+Currently+Learning%3A+GoLang;%F0%9F%9B%A0%EF%B8%8F+Working+on%3A+Dacomp(Java);%F0%9F%91%8D+interested+in+Open+Source;...+and+Cryptography;%F0%9F%A7%AD++Hobby%3A+Creative+Coding%2C+Writing;%F0%9F%92%8C+I+love+building+new+things" alt="Typing SVG" /></a>
 </p>
 
 <details open>
@@ -9,94 +9,88 @@
             alt="Projects In Progress"
         />
     </summary>
-    <div style="margin-top: 10px">
-        <a href="https://github.com/snh1999/dacomp"> 
-            <img
-                src="./images/dacomp.svg"
-                alt="Javascript Compiler"
-            />
-        </a>
-        <!-- <div style="width: fit-content; display: inline-block">
-            <span style="display: flex; margin-bottom: -5px">
+    <table width="1px">
+        <tr>
+            <td>
                 <img
                     src="https://custom-icon-badges.demolab.com/badge/Compiler-1F222E?style=for-the-badge&logo=command&logoColor=white"
                     alt="Javascript Compiler"
                 />
-            </span>
-            <a href="https://github.com/snh1999/dacomp">
-                <img
-                    width="278"
-                    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=dacomp&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                    alt="DaComp"
-                />
-            </a>
-            <span style="display: flex; justify-content: center">
-                <a href="#">
-                    <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="tauri"
-                        src="https://custom-icon-badges.demolab.com/badge/Dotnet-blue.svg?logo=dotnet&logoColor=white"
-                    />
-                </a>
-                <a href="https://react.dev">
-                    <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="java"
-                        src="https://custom-icon-badges.demolab.com/badge/java-orange.svg?logo=java"
-                    />
-                </a>
-            </span>
-        </div> -->
-        <a href="https://github.com/snh1999/bug2progress"> 
-            <img
-                src="./images/bug2progress.svg"
-                alt="Javascript Compiler"
-            />
-        </a>
-        <!-- <div style="width: fit-content; display: inline-block">
-            <span style="display: flex; justify-content: space-between; margin-bottom: -5px">
+            </td>
+            <td>
                 <img
                     src="https://custom-icon-badges.demolab.com/badge/Web_Application-1F222E?style=for-the-badge&logo=command&logoColor=white"
                     alt="Web Application"
                 />
                 <img
-                    height="20px"
                     src="https://custom-icon-badges.demolab.com/badge/Frontend_in_progress-red.svg"
                     alt="Frontend in progress"
                 />
-            </span>
-            <a href="https://github.com/snh1999/bug2progress">
-                <img
-                    width="278"
-                    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=bug2progress&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                    alt="bug2progress"
-                />
-            </a>
-            <span style="display: flex; justify-content: center">
-                <a href="https://angular.io/">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div>
+                    <a href="https://github.com/snh1999/dacomp">
+                        <img
+                            width="278"
+                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=dacomp&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
+                            alt="DaComp"
+                        />
+                    </a>
+                </div>
+            </td>
+            <td>
+                <a href="https://github.com/snh1999/bug2progress">
                     <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="angular"
-                        src="https://custom-icon-badges.demolab.com/badge/Angular-red.svg?logo=angular"
+                        width="278"
+                        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=bug2progress&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
+                        alt="bug2progress"
                     />
                 </a>
-                <a href="https://nestjs.com/">
-                    <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="nestjs"
-                        src="https://custom-icon-badges.demolab.com/badge/NestJS-grey.svg?logo=nestjs"
-                    />
-                </a>
-                <a href="https://www.postgresql.org/">
-                    <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="Postgresql"
-                        src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-blue.svg?logo=postgresql&logoColor=white"
-                    />
-                </a>
-            </span>
-        </div> -->
-    </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p align="center">
+                    <a href="#">
+                        <img
+                            alt="tauri"
+                            src="https://custom-icon-badges.demolab.com/badge/Dotnet-blue.svg?logo=dotnet&logoColor=white"
+                        />
+                    </a>
+                    <a href="https://react.dev">
+                        <img alt="java" src="https://custom-icon-badges.demolab.com/badge/java-orange.svg?logo=java" />
+                    </a>
+                </p>
+            </td>
+            <td>
+                <p align="center">
+                    <a href="https://angular.io/">
+                        <img
+                            style="margin-left: 2px; margin-bottom: 5px"
+                            alt="angular"
+                            src="https://custom-icon-badges.demolab.com/badge/Angular-red.svg?logo=angular"
+                        />
+                    </a>
+                    <a href="https://nestjs.com/">
+                        <img
+                            style="margin-left: 2px; margin-bottom: 5px"
+                            alt="nestjs"
+                            src="https://custom-icon-badges.demolab.com/badge/NestJS-grey.svg?logo=nestjs"
+                        />
+                    </a>
+                    <a href="https://www.postgresql.org/">
+                        <img
+                            style="margin-left: 2px; margin-bottom: 5px"
+                            alt="Postgresql"
+                            src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-blue.svg?logo=postgresql&logoColor=white"
+                        />
+                    </a>
+                </p>
+            </td>
+        </tr>
+    </table>
 </details>
 
 <details open>
@@ -150,7 +144,7 @@
                     />
                 </a>
             </span>
-        </div> -->
+        </div> --> 
         <a href="https://github.com/snh1999/cmd_cat"> 
             <img
                 src="./images/cmd_cat.svg"
