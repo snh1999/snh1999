@@ -222,116 +222,113 @@
                 </td>
             </tr>
         </table>
-        <a href="https://github.com/snh1999/jblog">
-            <img
-                src="./images/jblog.svg"
-                alt="jblog"
-            />
-        </a>
-        <!-- <div style="width: fit-content; display: inline-block">
-            <span style="display: flex; margin-bottom: -5px">
-                <img
-                    src="https://custom-icon-badges.demolab.com/badge/Web_Application-1F222E?style=for-the-badge&logo=cloud&logoColor=white"
-                    alt="Web Application"
-                />
-            </span>
-            <a href="https://github.com/snh1999/jblog">
-                <img
-                    width="278"
-                    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=jblog&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                    alt="Back2School"
-                />
-            </a>
-            <span style="display: flex; justify-content: center">
-                <a href="https://spring.io/projects/spring-boot/">
+        <table>
+            <tr>
+                <td>
                     <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="Spring Boot"
-                        src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-47A248?logo=springboot&logoColor=white"
+                        src="https://custom-icon-badges.demolab.com/badge/Web_Application-1F222E?style=for-the-badge&logo=cloud&logoColor=white"
+                        alt="Web Application"
                     />
-                </a>
-                <a href="https://angular.io/">
+                </td>
+                <td>
                     <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="angular"
-                        src="https://custom-icon-badges.demolab.com/badge/Angular-red.svg?logo=angular"
+                        src="https://custom-icon-badges.demolab.com/badge/Desktop_Application-1F222E?style=for-the-badge&logo=monitor&logoColor=white"
+                        alt="Desktop Application"
                     />
-                </a>
-                <a href="https://www.postgresql.org/">
+                </td>
+                <td>
                     <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="Postgresql"
-                        src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-blue.svg?logo=postgresql&logoColor=white"
+                        src="https://custom-icon-badges.demolab.com/badge/CLI_GAME-1F222E?style=for-the-badge&logo=airplay&logoColor=white"
+                        alt="CLI Game"
                     />
-                </a>
-            </span>
-        </div> -->
-        <a href="https://github.com/snh1999/VEditLog">
-            <img
-                src="./images/veditlog.svg"
-                alt="Javascript Compiler"
-            />
-        </a>
-        <!-- <div style="width: fit-content; display: inline-block">
-            <span style="display: flex; margin-bottom: -5px">
-                <img
-                    src="https://custom-icon-badges.demolab.com/badge/Desktop_Application-1F222E?style=for-the-badge&logo=monitor&logoColor=white"
-                    alt="Desktop Application"
-                />
-            </span>
-            <a href="https://github.com/snh1999/VEditLog">
-                <img
-                    width="278"
-                    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=VEditLog&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                    alt="VEditLog"
-                />
-            </a>
-            <span style="display: flex; justify-content: center">
-                <a href="">
-                    <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="sqlite"
-                        src="https://custom-icon-badges.demolab.com/badge/json-orange.svg?logo=json"
-                    />
-                </a>
-                <a href="https://pypi.org/project/PySide/">
-                    <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="Pyside6"
-                        src="https://custom-icon-badges.demolab.com/badge/PySide-47A248?logo=qt&logoColor=white"
-                    />
-                </a>
-            </span>
-        </div> -->
-        <a href="https://github.com/snh1999/Back2School">
-            <img
-                src="./images/back2school.svg"
-                alt="back2school"
-            />
-        </a>
-        <!-- <div style="width: fit-content; display: inline-block">
-            <span style="display: flex; margin-bottom: -5px">
-                <img
-                    src="https://custom-icon-badges.demolab.com/badge/CLI_GAME-1F222E?style=for-the-badge&logo=airplay&logoColor=white"
-                    alt="CLI Game"
-                />
-            </span>
-            <a href="https://github.com/snh1999/Back2School">
-                <img
-                    width="278"
-                    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=Back2School&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                    alt="Back2School"
-                />
-            </a>
-            <span style="display: flex; justify-content: center">
-                <a href="">
-                    <img
-                        style="margin-left: 2px; margin-bottom: 5px"
-                        alt="graphics.h"
-                        src="https://custom-icon-badges.demolab.com/badge/graphics.h-black.svg"
-                    />
-                </a>
-            </span> -->
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://github.com/snh1999/jblog">
+                        <img
+                            width="278"
+                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=jblog&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
+                            alt="Back2School"
+                        />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://github.com/snh1999/VEditLog">
+                        <img
+                            width="278"
+                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=VEditLog&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
+                            alt="VEditLog"
+                        />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://github.com/snh1999/Back2School">
+                        <img
+                            width="278"
+                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=Back2School&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
+                            alt="Back2School"
+                        />
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p align="center">
+                        <a href="https://spring.io/projects/spring-boot/">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="Spring Boot"
+                                src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-47A248?logo=springboot&logoColor=white"
+                            />
+                        </a>
+                        <a href="https://angular.io/">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="angular"
+                                src="https://custom-icon-badges.demolab.com/badge/Angular-red.svg?logo=angular"
+                            />
+                        </a>
+                        <a href="https://www.postgresql.org/">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="Postgresql"
+                                src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-blue.svg?logo=postgresql&logoColor=white"
+                            />
+                        </a>
+                    </p>
+                </td>
+                <td>
+                    <p align="center">
+                        <a href="">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="sqlite"
+                                src="https://custom-icon-badges.demolab.com/badge/json-orange.svg?logo=json"
+                            />
+                        </a>
+                        <a href="https://pypi.org/project/PySide/">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="Pyside6"
+                                src="https://custom-icon-badges.demolab.com/badge/PySide-47A248?logo=qt&logoColor=white"
+                            />
+                        </a>
+                    </p>
+                </td>
+                <td>
+                    <p align="center">
+                        <a href="">
+                            <img
+                                style="margin-left: 2px; margin-bottom: 5px"
+                                alt="graphics.h"
+                                src="https://custom-icon-badges.demolab.com/badge/graphics.h-black.svg"
+                            />
+                        </a>
+                    </p>
+                </td>
+            </tr>
+        </table>
         </div>
     </div>
     <a href="https://github.com/snh1999?tab=repositories&q=&type=&language=&sort=names">
