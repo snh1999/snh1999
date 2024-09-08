@@ -61,7 +61,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">blc-backend</span>
-                                <div class="bar" style="width: 14.631999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 14.624000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">18%</span>
                             </div>
                             <div class="entry">
@@ -81,7 +81,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">sazim_</span>
-                                <div class="bar" style="width: 5.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.103999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
