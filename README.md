@@ -410,6 +410,12 @@
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![Top Langs](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=snh1999&layout=compact&langs_count=8&exclude_repo=ludo_project&theme=chartreuse-dark&custom_title=Language%20stats%20from%20github) | ![GitHub stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=snh1999&hide=contribs,prs&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=Github%20Stats&exclude_repo=[snh1999]) |
 
+
+|                                                                                                                                                                                                                              |                                                                                                                                                                                                                         |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Top Langs](https://github-readme-stats-3kofgiqqp-sahriars-projects.vercel.app/api/top-langs/?username=sahriar-nahin-sazim&layout=compact&langs_count=8&exclude_repo=ludo_project&theme=chartreuse-dark&custom_title=Language%20stats%20from%20github) | ![GitHub stats](https://github-readme-stats-3kofgiqqp-sahriars-projects.vercel.app/api?username=sahriar-nahin-sazim&hide=contribs,prs&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=Github%20Stats&exclude_repo=[snh1999]) |
+
+
 <details close> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <h3>Languages</h3>
