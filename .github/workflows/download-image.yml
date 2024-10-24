@@ -1,0 +1,18 @@
+name: Download Image
+on:
+  # Schedule daily updates
+  schedule: [{ cron: '0 0 * * *' }]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: { branches: ['master', 'main'] }
+jobs:
+  download:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout repository
+          uses: actions/checkout@v4
+
+        - name: Download image
+          run: |
+            curl -L "https://github-readme-stats-qsj7-git-master-sahriars-projects.vercel.app/api?username=sahriar-nahin-sazim&hide=contribs,issues&count_private=true&show_icons=true&theme=gotham&custom_title=Github%20Stats%20of%20SAZIM%20Tech%20Account&show=reviews" -o "sazim_github_stats.svg  
