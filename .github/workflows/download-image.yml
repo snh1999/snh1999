@@ -15,4 +15,4 @@ jobs:
 
         - name: Download image
           run: |
-            curl -L "https://github-readme-stats-qsj7-git-master-sahriars-projects.vercel.app/api?username=sahriar-nahin-sazim&hide=contribs,issues&count_private=true&show_icons=true&theme=gotham&custom_title=Github%20Stats%20of%20SAZIM%20Tech%20Account&show=reviews" -o "sazim_github_stats.svg  
+            curl -L https://github-readme-stats-qsj7-git-master-sahriars-projects.vercel.app/api?username=sahriar-nahin-sazim&hide=contribs,issues&count_private=true&show_icons=true&theme=gotham&custom_title=Github%20Stats%20of%20SAZIM%20Tech%20Account&show=reviews -o sazim_github_stats.svg  
