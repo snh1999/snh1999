@@ -24,6 +24,7 @@ jobs:
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
             git add sazim_github_stats.svg
+            git add sazim_github_language_stats.svg
             git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats image of sazim account" && git push)
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
