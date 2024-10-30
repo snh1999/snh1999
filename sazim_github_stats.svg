@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Github Stats of SAZIM Tech Account, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits in 2024 : 109, Total PRs: 102, Total PRs Reviewed: 13</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits in 2024 : 111, Total PRs: 103, Total PRs Reviewed: 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 172.1362848391821;
+        stroke-dashoffset: 171.639023340066;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >109</text>
+      >111</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >102</text>
+      >103</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >13</text>
+      >15</text>
     </g>
   </g>
     </svg>
