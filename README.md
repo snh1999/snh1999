@@ -413,7 +413,7 @@
 
 |  Github Language Stats (From Employment)                                                                                                                                                                                                                 |                                                                                                                                                                                                                         |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Top Langs](https://github-readme-stats-qsj7-git-master-sahriars-projects.vercel.app/api/top-langs/?username=sahriar-nahin-sazim&layout=compact&theme=gotham&custom_title=Language%20stats%20from%20SAZIM%20Tech) | ![GitHub stats](https://github-readme-stats-qsj7-git-master-sahriars-projects.vercel.app/api?username=sahriar-nahin-sazim&hide=contribs,issues&count_private=true&show_icons=true&theme=gotham&custom_title=Github%20Stats%20of%20SAZIM%20Tech%20Account&show=reviews) |
+| ![Top Langs](./sazim_github_language_stats.svg) | ![GitHub stats](./sazim_github_stats.svg) |
 
 
 <details close> 
