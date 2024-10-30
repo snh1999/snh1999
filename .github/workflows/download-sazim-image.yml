@@ -17,6 +17,8 @@ jobs:
       
         - name: Download GitHub stats
           run: wget -O sazim_github_stats.svg "https://github-readme-stats-qsj7-git-master-sahriars-projects.vercel.app/api?username=sahriar-nahin-sazim&hide=contribs,issues&count_private=true&show_icons=true&theme=gotham&custom_title=Github%20Stats%20of%20SAZIM%20Tech%20Account&show=reviews"
+        - name: Download Language
+          run: wget -O sazim_github_language_stats.svg "https://github-readme-stats-qsj7-git-master-sahriars-projects.vercel.app/api/top-langs/?username=sahriar-nahin-sazim&layout=compact&theme=gotham&custom_title=Language%20stats%20from%20SAZIM%20Tech"
         - name: Commit and push if changed
           run: |
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
