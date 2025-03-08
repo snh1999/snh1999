@@ -61,12 +61,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">blc-backend</span>
-                                <div class="bar" style="width: 28.112%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 28.095999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">35%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">blc-frontend</span>
-                                <div class="bar" style="width: 20.536%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 20.52%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">26%</span>
                             </div>
                             <div class="entry">
@@ -81,12 +81,12 @@
                             </div>
                             <div class="entry">
                                 <span class="name">todoile</span>
-                                <div class="bar" style="width: 4.720000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ObsidianDev</span>
-                                <div class="bar" style="width: 2.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
@@ -96,12 +96,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 41.495999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 41.47200000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TSX</span>
-                                <div class="bar" style="width: 22.784%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 22.768%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">28%</span>
                             </div>
                             <div class="entry">
