@@ -1,5 +1,5 @@
 <p align="center">
-    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&duration=1000&pause=800&color=47F718&center=true&vCenter=true&random=false&width=500&lines=%E2%9C%8B+I+am+Sahriar+Nur+Nahin;%F0%9F%8C%B1+Currently+Learning%3A+GoLang;%F0%9F%9B%A0%EF%B8%8F+Working+on%3A+Dacomp(Java);%F0%9F%91%8D+interested+in+Open+Source;...+and+Cryptography;%F0%9F%A7%AD++Hobby%3A+Creative+Coding%2C+Writing;%F0%9F%92%8C+I+love+building+new+things" alt="Typing SVG" /></a>
+    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&duration=1000&pause=800&color=47F718&center=true&vCenter=true&random=false&width=500&lines=%E2%9C%8B+I+am+Sahriar+Nur+Nahin;%F0%9F%8C%B1+Currently+Learning%3A+GoLang;%F0%9F%9B%A0%EF%B8%8F+Working+on%3A+bug2progress(frontend);%F0%9F%91%8D+interested+in+Open+Source;...+and+Cryptography;%F0%9F%A7%AD++Hobby%3A+Creative+Coding%2C+Writing;%F0%9F%92%8C+I+love+building+new+things" alt="Typing SVG" /></a>
 </p>
 
 <details open>
@@ -13,12 +13,6 @@
         <tr>
             <td>
                 <img
-                    src="https://custom-icon-badges.demolab.com/badge/Compiler-1F222E?style=for-the-badge&logo=command&logoColor=white"
-                    alt="Javascript Compiler"
-                />
-            </td>
-            <td>
-                <img
                     src="https://custom-icon-badges.demolab.com/badge/Web_Application-1F222E?style=for-the-badge&logo=command&logoColor=white"
                     alt="Web Application"
                 />
@@ -29,17 +23,6 @@
             </td>
         </tr>
         <tr>
-            <td>
-                <div>
-                    <a href="https://github.com/snh1999/dacomp">
-                        <img
-                            width="278"
-                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=dacomp&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                            alt="DaComp"
-                        />
-                    </a>
-                </div>
-            </td>
             <td>
                 <a href="https://github.com/snh1999/bug2progress">
                     <img
@@ -53,24 +36,11 @@
         <tr>
             <td>
                 <p align="center">
-                    <a href="#">
-                        <img
-                            alt="tauri"
-                            src="https://custom-icon-badges.demolab.com/badge/Dotnet-blue.svg?logo=dotnet&logoColor=white"
-                        />
-                    </a>
-                    <a href="https://react.dev">
-                        <img alt="java" src="https://custom-icon-badges.demolab.com/badge/java-orange.svg?logo=java" />
-                    </a>
-                </p>
-            </td>
-            <td>
-                <p align="center">
-                    <a href="https://angular.io/">
+                    <a href="https://nextjs.org/">
                         <img
                             style="margin-left: 2px; margin-bottom: 5px"
-                            alt="angular"
-                            src="https://custom-icon-badges.demolab.com/badge/Angular-red.svg?logo=angular"
+                            alt="Next.js"
+                            src="https://custom-icon-badges.demolab.com/badge/Next.js-grey.svg?logo=Nextjs"
                         />
                     </a>
                     <a href="https://nestjs.com/">
@@ -402,19 +372,17 @@
     </ul>
 </details>
 
-| Language Stats from WakaApi (uses WakaTime API)                                                                                                                                                                                                                                           |  WakaApi Overview (updates every midnight)                                               |
+|                                                                                                Language Stats from WakaApi (uses WakaTime API)                                                                                                |    WakaApi Overview (updates every midnight)     |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 | ![wakatime stats](https://denvercoder1-github-readme-stats.vercel.app/api/wakatime?username=snh1999&api_domain=wakapi.dev&theme=chartreuse-dark&custom_title=Recent%20Stats%20from%20Wakapi&layout=compact&range=last_30_days&langs_count=10) | ![wakapi metrics](./metrics.plugin.wakatime.svg) |
 
-| Github language stats (Personal Account)                                                                                                                                                                                                                             |                                                                                                                                                                                                                         |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                 Github language stats (Personal Account)                                                                                  |                                                                                                                                                                                                      |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![Top Langs](https://stats-snh1999.vercel.app/api/top-langs/?username=snh1999&layout=compact&langs_count=8&exclude_repo=ludo_project&theme=chartreuse-dark&custom_title=Language%20stats%20from%20github) | ![GitHub stats](https://stats-snh1999.vercel.app/api?username=snh1999&hide=contribs,prs&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=Github%20Stats&exclude_repo=[snh1999]) |
 
-
-|  Github Language Stats (From Employment)                                                                                                                                                                                                                 |                                                                                                                                                                                                                         |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     Github Language Stats (From Employment)     |                                           |
+| :---------------------------------------------: | :---------------------------------------: |
 | ![Top Langs](./sazim_github_language_stats.svg) | ![GitHub stats](./sazim_github_stats.svg) |
-
 
 <details close> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
