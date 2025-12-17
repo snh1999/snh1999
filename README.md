@@ -1,67 +1,23 @@
 <p align="center">
-    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&duration=1000&pause=800&color=47F718&center=true&vCenter=true&random=false&width=500&lines=%E2%9C%8B+I+am+Sahriar+Nur+Nahin;%F0%9F%8C%B1+Currently+Learning%3A+GoLang;%F0%9F%9B%A0%EF%B8%8F+Working+on%3A+bug2progress(frontend);%F0%9F%91%8D+interested+in+Open+Source;...+and+Cryptography;%F0%9F%A7%AD++Hobby%3A+Creative+Coding%2C+Writing;%F0%9F%92%8C+I+love+building+new+things" alt="Typing SVG" /></a>
+    <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=22&duration=1000&pause=800&color=47F718&center=true&vCenter=true&random=false&width=500&lines=%E2%9C%8B+I+am+Sahriar+Nur+Nahin;%F0%9F%8C%B1+Currently+Learning%3A+GoLang;%F0%9F%9B%A0%EF%B8%8F+Working+on%3A+bug2progress(frontend);%F0%9F%91%8D+interested+in+Cybersecurity;%F0%9F%A7%AD++Hobby%3A+Creative+Coding%2C+Writing;" alt="Typing SVG" /></a>
 </p>
+
 
 <details open>
     <summary>
-        <img
-            src="https://custom-icon-badges.demolab.com/badge/Projects_In_Progress-47A248?style=for-the-badge&logo=book&logoColor=blue"
-            alt="Projects In Progress"
-        />
+    <img
+    src="https://custom-icon-badges.demolab.com/badge/Projects_In_Progress-BB5248?style=for-the-badge&logo=book&logoColor=blue"
+    alt="Projects In Progress"
+    />
     </summary>
-    <table width="1px">
-        <tr>
-            <td>
-                <img
-                    src="https://custom-icon-badges.demolab.com/badge/Web_Application-1F222E?style=for-the-badge&logo=command&logoColor=white"
-                    alt="Web Application"
-                />
-                <img
-                    src="https://custom-icon-badges.demolab.com/badge/Frontend_in_progress-red.svg"
-                    alt="Frontend in progress"
-                />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/snh1999/bug2progress">
-                    <img
-                        width="278"
-                        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=bug2progress&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                        alt="bug2progress"
-                    />
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p align="center">
-                    <a href="https://nextjs.org/">
-                        <img
-                            style="margin-left: 2px; margin-bottom: 5px"
-                            alt="Next.js"
-                            src="https://custom-icon-badges.demolab.com/badge/Next.js-grey.svg?logo=Nextjs"
-                        />
-                    </a>
-                    <a href="https://nestjs.com/">
-                        <img
-                            style="margin-left: 2px; margin-bottom: 5px"
-                            alt="nestjs"
-                            src="https://custom-icon-badges.demolab.com/badge/NestJS-grey.svg?logo=nestjs"
-                        />
-                    </a>
-                    <a href="https://www.postgresql.org/">
-                        <img
-                            style="margin-left: 2px; margin-bottom: 5px"
-                            alt="Postgresql"
-                            src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-blue.svg?logo=postgresql&logoColor=white"
-                        />
-                    </a>
-                </p>
-            </td>
-        </tr>
-    </table>
+
+| ![Desktop Application](https://custom-icon-badges.demolab.com/badge/Desktop_Application-1F222E?style=for-the-badge&logo=monitor&logoColor=white)| ![Web_Application](https://custom-icon-badges.demolab.com/badge/Web_Application-1F222E?style=for-the-badge&logo=command&logoColor=white") |
+|---|---|
+| [![tgui](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=tgui&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/snh1999/tgui) | [![bug2progress](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=bug2progress&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/snh1999/bug2progress) |
+| <p align="center"> ![tauri](https://custom-icon-badges.demolab.com/badge/Tauri-blue.svg?logo=tauri&logoColor=yellow) ![vue](https://custom-icon-badges.demolab.com/badge/Vue-41B883.svg?logo=vue) | <p align="center">[![Next.js](https://custom-icon-badges.demolab.com/badge/Next.js-grey.svg?logo=Nextjs)](https://nextjs.org/) [![NestJS](https://custom-icon-badges.demolab.com/badge/NestJS-red.svg?logo=nestjs)](https://nestjs.com/) [![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-blue.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)</p> |
+
 </details>
+
 
 <details open>
     <summary>
@@ -70,245 +26,16 @@
             alt=" FEW Completed Projects"
         />
     </summary>
-    <div>
-        <table width="1px">
-            <tr>
-                <td>
-                    <img
-                        src="https://custom-icon-badges.demolab.com/badge/API_CLIENT-1F222E?style=for-the-badge&logo=check-circle&logoColor=white"
-                        alt="API ClIENT"
-                    />
-                </td>
-                <td>
-                    <img
-                        src="https://custom-icon-badges.demolab.com/badge/CLI_Application-1F222E?style=for-the-badge&logo=terminal&logoColor=white"
-                        alt="CLI Application"
-                    />
-                </td>
-                <td>
-                    <img
-                        src="https://custom-icon-badges.demolab.com/badge/REST_API-1F222E?style=for-the-badge&logo=bookmark&logoColor=white"
-                        alt="REST API"
-                    />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://github.com/snh1999/catest">
-                        <img
-                            width="278"
-                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=catest&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                            alt="ReadU"
-                        />
-                    </a>
-                </td>
-                <td>
-                    <a href="https://github.com/snh1999/cmd_cat">
-                        <img
-                            width="278"
-                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=cmd_cat&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                            alt="ReadU"
-                        />
-                    </a>
-                </td>
-                <td>
-                    <a href="https://github.com/snh1999/ReadU">
-                        <img
-                            width="278"
-                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=ReadU&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                            alt="ReadU"
-                        />
-                    </a>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p align="center">
-                        <a href="https://tauri.app/">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="tauri"
-                                src="https://custom-icon-badges.demolab.com/badge/Tauri-blue.svg?logo=tauri&logoColor=yellow"
-                            />
-                        </a>
-                        <a href="https://react.dev">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="react"
-                                src="https://custom-icon-badges.demolab.com/badge/React-grey.svg?logo=react"
-                            />
-                        </a>
-                        <a href="https://www.typescriptlang.org/">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="zustand"
-                                src="https://custom-icon-badges.demolab.com/badge/Zustand-teal.svg"
-                            />
-                        </a>
-                    </p>
-                </td>
-                <td>
-                    <p align="center">
-                        <a href="https://www.rust-lang.org/">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="rust"
-                                src="https://custom-icon-badges.demolab.com/badge/Rust-black.svg?logo=rust"
-                            />
-                        </a>
-                        <a href="https://github.com/rusqlite/rusqlite">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="sqlite"
-                                src="https://custom-icon-badges.demolab.com/badge/Rusqlite-aquamarine.svg?logo=sqlite"
-                            />
-                        </a>
-                    </p>
-                </td>
-                <td>
-                    <p align="center">
-                        <a href="https://nodejs.org/">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="Node.js"
-                                src="https://custom-icon-badges.demolab.com/badge/Node.js-339933?logo=node.js&logoColor=white"
-                            />
-                        </a>
-                        <a href="https://expressjs.com/">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="express"
-                                src="https://custom-icon-badges.demolab.com/badge/Express-000000?logo=express&logoColor=white"
-                            />
-                        </a>
-                        <a href="https://www.mongodb.com/">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="Mongodb"
-                                src="https://custom-icon-badges.demolab.com/badge/MongoDB-47A248?logo=mongodb&logoColor=white"
-                            />
-                        </a>
-                    </p>
-                </td>
-            </tr>
-        </table>
-        <table>
-            <tr>
-                <td>
-                    <img
-                        src="https://custom-icon-badges.demolab.com/badge/Web_Application-1F222E?style=for-the-badge&logo=cloud&logoColor=white"
-                        alt="Web Application"
-                    />
-                </td>
-                <td>
-                    <img
-                        src="https://custom-icon-badges.demolab.com/badge/Desktop_Application-1F222E?style=for-the-badge&logo=monitor&logoColor=white"
-                        alt="Desktop Application"
-                    />
-                </td>
-                <td>
-                    <img
-                        src="https://custom-icon-badges.demolab.com/badge/CLI_GAME-1F222E?style=for-the-badge&logo=airplay&logoColor=white"
-                        alt="CLI Game"
-                    />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://github.com/snh1999/jblog">
-                        <img
-                            width="278"
-                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=jblog&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                            alt="Back2School"
-                        />
-                    </a>
-                </td>
-                <td>
-                    <a href="https://github.com/snh1999/VEditLog">
-                        <img
-                            width="278"
-                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=VEditLog&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                            alt="VEditLog"
-                        />
-                    </a>
-                </td>
-                <td>
-                    <a href="https://github.com/snh1999/Back2School">
-                        <img
-                            width="278"
-                            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=Back2School&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true"
-                            alt="Back2School"
-                        />
-                    </a>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p align="center">
-                        <a href="https://spring.io/projects/spring-boot/">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="Spring Boot"
-                                src="https://custom-icon-badges.demolab.com/badge/Boot-47A248?logo=springboot&logoColor=white"
-                            />
-                        </a>
-                        <a href="https://angular.io/">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="angular"
-                                src="https://custom-icon-badges.demolab.com/badge/Angular-red.svg?logo=angular"
-                            />
-                        </a>
-                        <a href="https://www.postgresql.org/">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="Postgresql"
-                                src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-blue.svg?logo=postgresql&logoColor=white"
-                            />
-                        </a>
-                    </p>
-                </td>
-                <td>
-                    <p align="center">
-                        <a href="">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="sqlite"
-                                src="https://custom-icon-badges.demolab.com/badge/json-orange.svg?logo=json"
-                            />
-                        </a>
-                        <a href="https://pypi.org/project/PySide/">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="Pyside6"
-                                src="https://custom-icon-badges.demolab.com/badge/PySide-47A248?logo=qt&logoColor=white"
-                            />
-                        </a>
-                    </p>
-                </td>
-                <td>
-                    <p align="center">
-                        <a href="">
-                            <img
-                                style="margin-left: 2px; margin-bottom: 5px"
-                                alt="graphics.h"
-                                src="https://custom-icon-badges.demolab.com/badge/graphics.h-black.svg"
-                            />
-                        </a>
-                    </p>
-                </td>
-            </tr>
-        </table>
-        </div>
-    </div>
-    <a href="https://github.com/snh1999?tab=repositories&q=&type=&language=&sort=names">
-        <span style="display: flex; margin-bottom: -5px">
-            <img
-                src="https://custom-icon-badges.demolab.com/badge/All_Repositories-1F222E?style=for-the-badge&logo=arrow-down&logoColor=white"
-                alt="All Repositories"
-            />
-        </span>
-    </a>
+
+| ![API ClIENT](https://custom-icon-badges.demolab.com/badge/API_CLIENT-1F222E?style=for-the-badge&logo=check-circle&logoColor=white)   | ![CLI Application](https://custom-icon-badges.demolab.com/badge/CLI_Application-1F222E?style=for-the-badge&logo=terminal&logoColor=white)  | ![REST API](https://custom-icon-badges.demolab.com/badge/REST_API-1F222E?style=for-the-badge&logo=bookmark&logoColor=white)  |
+|---|---|---|
+| [![catest](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=catest&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/snh1999/catest) | [![cmd cat](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=cmd_cat&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/snh1999/cmd_cat) | [![ReadU](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=ReadU&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/snh1999/ReadU) | 
+| <p align="center">![turi](https://custom-icon-badges.demolab.com/badge/Tauri-blue.svg?logo=tauri&logoColor=yellow) ![react](https://custom-icon-badges.demolab.com/badge/React-grey.svg?logo=react) ![zustand](https://custom-icon-badges.demolab.com/badge/Zustand-teal.svg?logo=question) </p>   |  <p align="center"> ![rust](https://custom-icon-badges.demolab.com/badge/Rust-black.svg?logo=rust) ![sqlite](https://custom-icon-badges.demolab.com/badge/Rusqlite-palevioletred.svg?logo=sqlite) </p> |  <p align="center"> ![node](https://custom-icon-badges.demolab.com/badge/Node.js-336633?logo=node.js&logoColor=white) ![express](https://custom-icon-badges.demolab.com/badge/Express-000000?logo=express&logoColor=white) ![mongodb](https://custom-icon-badges.demolab.com/badge/MongoDB-47A248?logo=mongodb&logoColor=white) </p> |
+
+| ![WEB APPLICATION](https://custom-icon-badges.demolab.com/badge/Web_Application-1F222E?style=for-the-badge&logo=cloud&logoColor=white)   | ![DESKTOP Application](https://custom-icon-badges.demolab.com/badge/Desktop_Application-1F222E?style=for-the-badge&logo=monitor&logoColor=white")  | ![CLI Game](https://custom-icon-badges.demolab.com/badge/CLI_GAME-1F222E?style=for-the-badge&logo=airplay&logoColor=white)  |
+|---|---|---|
+| [![jblog](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=jblog&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/snh1999/jblog) | [![VEditLog](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=VEditLog&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/snh1999/VEditLog) | [![Back2School](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=snh1999&repo=Back2School&theme=dark&bg_color=1F222E&title_color=00FF00&hide_border=true&icon_color=F8D866&show_icons=true)](https://github.com/snh1999`/Back2School) | 
+| <p align="center">![springboot](https://custom-icon-badges.demolab.com/badge/Boot-47A248?logo=springboot&logoColor=white) ![angular](https://custom-icon-badges.demolab.com/badge/Angular-red.svg?logo=angular) ![postgresql](https://custom-icon-badges.demolab.com/badge/PostgreSQL-blue.svg?logo=postgresql&logoColor=white) </p>   |  <p align="center"> ![pyside6](https://custom-icon-badges.demolab.com/badge/PySide-47A248?logo=qt&logoColor=white)![json](https://custom-icon-badges.demolab.com/badge/json-orange.svg?logo=json)  </p> |  <p align="center"> ![graphics.h](https://custom-icon-badges.demolab.com/badge/graphics.h-black.svg)  </p> |
 
 </details>
 
