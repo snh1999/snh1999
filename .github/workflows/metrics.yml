@@ -12,10 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Calculate days since Jan 1st
-        id: datecalc
-        run: echo "days=$(date +%j)" >> $GITHUB_OUTPUT
-
       - name: WakaAPI
         uses: lowlighter/metrics@latest
         with:
@@ -26,5 +22,5 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_url: http://wakapi.dev
           plugin_wakatime_limit: 6
-          plugin_wakatime_days: ${{ steps.datecalc.outputs.days }}
+          plugin_wakatime_days: 100
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
